@@ -1,0 +1,9 @@
+# Undo state and backups produced by the script at runtime
+vulkan-repair-state.json
+vulkan-repair-backups/
+*.log
+*.bak
+
+# OS noise
+Thumbs.db
+.DS_Store
